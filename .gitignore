@@ -1,0 +1,19 @@
+# OS / Editor
+.vscode/
+.idea/
+.DS_Store
+
+# Backend build + IDE files
+movie-booking-backend/target/
+movie-booking-backend/.metadata/
+movie-booking-backend/.classpath
+movie-booking-backend/.project
+movie-booking-backend/.settings/
+
+# Backend secrets
+movie-booking-backend/src/main/resources/application.properties
+
+# Frontend build files
+movie-booking-frontend/node_modules/
+movie-booking-frontend/dist/
+movie-booking-frontend/.env
